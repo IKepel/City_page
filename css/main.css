@@ -1,0 +1,19 @@
+.container_img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info{
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.contacts{
+    margin-left: 100px;
+}
+
+button{
+    margin-left: 100px;
+}
